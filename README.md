@@ -4,14 +4,14 @@
 Находит репозиторий CopilotKit и проверяет наличие текста в README.md.
 
 ## Стек
-- Python 3.12+
+- Python 3.14
 - Playwright 1.55.0
 - PyTest 8.4.1
 
 ## Установка
 
 1. Клонировать репозиторий:
-   git clone https://github.com/ТВОЙ_НИК/github_search_test.git
+   git clone https://github.com/whtpny/github_search_test.git
    cd github_search_test
 
 2. Создать виртуальное окружение:
@@ -32,4 +32,4 @@
 
 ## Тест-кейс
 
-Ссылка на тест-кейс в Google Docs: 
+Ссылка на тест-кейс в Google Docs: https://docs.google.com/document/d/1n3LsejprCkIm54KLIic3-tbP8VoiulkLnWcERgYMrik/edit?usp=sharing
