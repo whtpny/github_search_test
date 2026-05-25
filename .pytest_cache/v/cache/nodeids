@@ -1,0 +1,4 @@
+[
+  "tests/test_github_search.py::test_search_copilotkit",
+  "tests/test_github_search.py::test_search_copilotkit[chromium]"
+]
